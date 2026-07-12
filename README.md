@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=ARYAN%20RAVI&fontSize=60&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Product-Minded%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+in+AI+%26+Machine+Learning;Building+AI-Powered+Products;Full+Stack+Developer;Machine+Learning+%7C+Data+Analytics;Turning+Ideas+Into+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+in+AI+%26+Machine+Learning;Building+AI-Powered+Products;Machine+Learning+%7C+Data+Analytics;Turning+Ideas+Into+Scalable+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,21 +36,20 @@
 
 ```yaml
 name: "Aryan Ravi"
-role: "AI/ML Engineering Student · Full Stack Developer"
+role: "AI/ML Engineering Student "
 based_in: "Bhopal, Madhya Pradesh, India"
 focus:
   - Artificial Intelligence & Machine Learning
-  - Full Stack Web Development
   - Data Analytics & Visualization
   - Cloud-Native Application Engineering
 philosophy: "Engineering intelligent, scalable, and human-centered software."
 ```
 
-I'm a **B.Tech (CSE – AI & ML)** student engineering software at the intersection of **machine learning, data systems, and full-stack product development**. My work spans building **AI-powered applications**, training and evaluating **regression & predictive models**, and shipping **responsive, production-deployed web products**. I approach engineering with a **product mindset** — prioritizing usability, performance, and measurable impact over just working code.
+I'm a **B.Tech (CSE – AI & ML)** student engineering software at the intersection of **machine learning and data systems**. My work spans building **AI-powered applications**, training and evaluating **regression & predictive models**, and shipping **responsive, production-deployed web products**. I approach engineering with a **product mindset** — prioritizing usability, performance, and measurable impact over just working code.
 
 I'm currently sharpening my foundations in **DSA, DBMS, and Operating Systems** while actively building applied ML and full-stack projects, backed by hands-on certifications in **Python, Data Analytics, and Cloud Computing**.
 
-**🎯 Open To:** AI/ML Internships · Full Stack Development Roles · Data Analytics Internships · Open Source Collaboration · Research Assistantships
+**🎯 Open To:** AI/ML Internships · Data Analytics Internships · Open Source Collaboration · Research Assistantships
 
 ---
 
